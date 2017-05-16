@@ -27,11 +27,5 @@ Project time-frame 5 days
 - Bootstrap3
 - Heroku
 
-## Project Ownership 
-- Produced nav bar and general CSS of web app
-- Learned how to make AJAX calls using Rails 5 and implemented across the web application. 
-- Produced show page for individual experiements 
-- In charge of testing, wrote all the tests to ensure the app was 91% tested
-
 
 
