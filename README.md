@@ -1,6 +1,8 @@
 # Autogenics Experimental Message Board
 This project is a client project based out of a Dev Bootcamp curriculum activity.
 
+Project: [Autogenics Portal](http://autogenics-portal.herokuapp.com/)
+
 ## Developers:
 - Linsey Reed
 - Josh Mun
